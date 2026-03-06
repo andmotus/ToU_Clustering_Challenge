@@ -17,6 +17,7 @@ venv/
 
 # Data if data too big
 data/raw/*.txt
+data/processed/*.parquet
 # data/*.xlsx
 # data/*.json
 
