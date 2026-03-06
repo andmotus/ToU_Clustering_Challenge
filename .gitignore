@@ -16,7 +16,7 @@ venv/
 .ipynb_checkpoints/
 
 # Data if data too big
-data/raw/*.csv
+data/raw/*.txt
 # data/*.xlsx
 # data/*.json
 
