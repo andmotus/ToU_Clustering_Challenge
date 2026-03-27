@@ -161,5 +161,12 @@ See: `ETHICS_FRAMEWORK.md`
 
 ---
 
+## License
+Add a license if required by your course or if you plan to publish the repo. If unsure, leave this section as “TBD”.
+
+---
+
 ## Contact / Author
-- Author: <Lukas Müller>
+- Author: <YOUR NAME>
+- Program: MSc Data Science
+- Course: Clustering
