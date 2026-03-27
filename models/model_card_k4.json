@@ -1,0 +1,22 @@
+{
+  "selected_k": 4,
+  "selected_variant": "B_log1p_standard",
+  "feature_representation": "weekday/weekend \u00d7 hour-of-day mean profiles (240 features)",
+  "cluster_sizes": [
+    3477,
+    2101,
+    3561,
+    861
+  ],
+  "labels": {
+    "0": "Low activity / peripheral",
+    "1": "Urban mixed-use",
+    "2": "Moderate activity",
+    "3": "High-activity core"
+  },
+  "artifacts": {
+    "assignments_parquet": "../models/cluster_assignments_k4.parquet",
+    "assignments_csv": "../models/cluster_assignments_k4.csv",
+    "model_joblib": "../models/kmeans_k4_variantB.joblib"
+  }
+}
